@@ -1,0 +1,4 @@
+# I use shell and python scripts for bulk processing
+__pycache__/
+*.sh
+*.py
