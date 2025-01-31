@@ -1,55 +1,55 @@
 @font-face {
     font-family: 'CMUClassicalSerifItalic';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/136cd2be866fa2d7e8a4fcf358d397c6/CMUClassicalSerifItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUClassicalSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifBold';
-        src: url('/assets/fonts/cmu-serif/59c4efc3fa08079ca44060ca808c8f58/971a7f1818098f6fd3bb91b08be096df/CMUSerifBold.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
       }
 
 @font-face {
     font-family: 'CMUSerifBoldItalic';
-        src: url('/assets/fonts/cmu-serif/59c4efc3fa08079ca44060ca808c8f58/cd9c0404b3cd1dc863a5940ca609c8f4/CMUSerifBoldItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifBoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifExtraBoldSlanted';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/0bbb8a4c5e6dbed031c0355feba736b9/CMUSerifExtraBoldSlanted.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifExtraBoldSlanted.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifExtraRomanSlanted';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/16637880949256b22be424cba3f000e2/CMUSerifExtraRomanSlanted.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifExtraRomanSlanted.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifItalic';
-        src: url('/assets/fonts/cmu-serif/59c4efc3fa08079ca44060ca808c8f58/86153f0958ae90bf30249dcb98d04a7d/CMUSerifItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifRoman';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/01643be9fa75a4523c77ac348b242aed/CMUSerifRoman.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifRoman.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
       }
 
 @font-face {
     font-family: 'CMUSerifUprightItalicUprightItalic';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/4ec855cf5284d6800c1dde81455bbad7/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
@@ -58,7 +58,7 @@
 
 @font-face {
     font-family: 'CMU Classical Serif';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/136cd2be866fa2d7e8a4fcf358d397c6/CMUClassicalSerifItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUClassicalSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
@@ -67,7 +67,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/cmu-serif/59c4efc3fa08079ca44060ca808c8f58/971a7f1818098f6fd3bb91b08be096df/CMUSerifBold.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
       }
@@ -76,7 +76,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/cmu-serif/59c4efc3fa08079ca44060ca808c8f58/cd9c0404b3cd1dc863a5940ca609c8f4/CMUSerifBoldItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifBoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
@@ -85,7 +85,7 @@
 
 @font-face {
     font-family: 'CMU Serif Extra';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/0bbb8a4c5e6dbed031c0355feba736b9/CMUSerifExtraBoldSlanted.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifExtraBoldSlanted.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
@@ -94,7 +94,7 @@
 
 @font-face {
     font-family: 'CMU Serif Extra';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/16637880949256b22be424cba3f000e2/CMUSerifExtraRomanSlanted.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifExtraRomanSlanted.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
@@ -103,7 +103,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/cmu-serif/59c4efc3fa08079ca44060ca808c8f58/86153f0958ae90bf30249dcb98d04a7d/CMUSerifItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
@@ -112,7 +112,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/01643be9fa75a4523c77ac348b242aed/CMUSerifRoman.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifRoman.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
       }
@@ -121,7 +121,7 @@
 
 @font-face {
     font-family: 'CMU Serif Upright Italic';
-        src: url('/assets/fonts/cmu-serif/6fcdeb7a603e986ae49da1030eb1966b/4ec855cf5284d6800c1dde81455bbad7/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
+        src: url('/assets/fonts/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
