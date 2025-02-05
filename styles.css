@@ -1,64 +1,64 @@
 @font-face {
     font-family: 'CMUClassicalSerifItalic';
-        src: url('/assets/fonts/CMUClassicalSerifItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUClassicalSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifBold';
-        src: url('/assets/fonts/CMUSerifBold.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
       }
 
 @font-face {
     font-family: 'CMUSerifBoldItalic';
-        src: url('/assets/fonts/CMUSerifBoldItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifBoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifExtraBoldSlanted';
-        src: url('/assets/fonts/CMUSerifExtraBoldSlanted.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifExtraBoldSlanted.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifExtraRomanSlanted';
-        src: url('/assets/fonts/CMUSerifExtraRomanSlanted.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifExtraRomanSlanted.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifItalic';
-        src: url('/assets/fonts/CMUSerifItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
 
 @font-face {
     font-family: 'CMUSerifRoman';
-        src: url('/assets/fonts/CMUSerifRoman.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifRoman.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
       }
 
 @font-face {
     font-family: 'CMUSerifUprightItalicUprightItalic';
-        src: url('/assets/fonts/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
 
- /* The following rules are deprecated. */ 
+ /* The following rules are deprecated. */
 
 @font-face {
     font-family: 'CMU Classical Serif';
-        src: url('/assets/fonts/CMUClassicalSerifItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUClassicalSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
@@ -67,7 +67,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/CMUSerifBold.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
       }
@@ -76,7 +76,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/CMUSerifBoldItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifBoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
@@ -85,7 +85,7 @@
 
 @font-face {
     font-family: 'CMU Serif Extra';
-        src: url('/assets/fonts/CMUSerifExtraBoldSlanted.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifExtraBoldSlanted.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
       }
@@ -94,7 +94,7 @@
 
 @font-face {
     font-family: 'CMU Serif Extra';
-        src: url('/assets/fonts/CMUSerifExtraRomanSlanted.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifExtraRomanSlanted.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
@@ -103,7 +103,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/CMUSerifItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
@@ -112,7 +112,7 @@
 
 @font-face {
     font-family: 'CMU Serif';
-        src: url('/assets/fonts/CMUSerifRoman.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifRoman.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
       }
@@ -121,7 +121,7 @@
 
 @font-face {
     font-family: 'CMU Serif Upright Italic';
-        src: url('/assets/fonts/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
+        src: url('assets/fonts/CMUSerifUprightItalicUprightItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
       }
